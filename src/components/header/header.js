@@ -53,7 +53,7 @@ export default class Header extends Component {
                     </a>
                   </li> */}
                   <li className="nav-item">
-                    <a href="/vendor/Shekhar.pdf" download className="nav-link">
+                    <a href="vendor/Shekhar.pdf" download className="nav-link">
                       Resume
                     </a>
                   </li>
