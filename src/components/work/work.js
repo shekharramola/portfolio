@@ -11,8 +11,8 @@ export default class Work extends Component {
                   My work
                 </h2>
                 <p data-animate="fadeInUp" className="lead">
-                  I have worked on dozens of projects so I have picked only the
-                  latest for you.
+                  {/* I have worked on dozens of projects so I have picked only the
+                  latest for you. */}
                 </p>
               </div>
               <ul id="filter" data-animate="fadeInUp">

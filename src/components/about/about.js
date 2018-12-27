@@ -20,14 +20,14 @@ export default class About extends Component {
                   admiration prosperous now devonshire diminution law.
                 </p> */}
                 <p>
-                  I am a Bengaluru based Front End developer who focuses on
+                  I am a Bengaluru based Front End developer with a focus on
                   writing clean, elegent and efficient code. I am skilled in UI
                   technologies and libraries like{' '}
                   <strong>AngularJS/ Angular, React, Jquery etc </strong>
                 </p>
                 <p>
                   I always use available tools to automate the process and
-                  increase my productivity. My favourite one include
+                  increase my productivity. My favourites one include
                   <strong> NPM, Gulp</strong> etc.
                 </p>
 
@@ -36,11 +36,11 @@ export default class About extends Component {
                   have written a few application in node.js
                 </p>
                 <p>
-                  I am developing web applications for the past 2 year. I have
-                  experience developing web application from scratch. I have
-                  done many projects. I have a strong background in javascript.
-                  I have a Bachelor of Technology in Computer Science and
-                  Engineering from GGSIPU, Delhi.
+                  I have developed web applications for the past 2 years, and
+                  have experience developing web application from scratch. I
+                  have a strong background in javascript as well as Bachelor of
+                  Technology in Computer Science and Engineering from GGSIPU,
+                  Delhi.
                 </p>
               </div>
               <div data-animate="fadeInUp" className="col-lg-6">
