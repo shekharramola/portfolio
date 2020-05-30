@@ -11,7 +11,7 @@ export default class Intro extends Component {
           }}
           className="intro-section pb-2"
         >
-          <div className="container text-center">
+           <div className="container text-center">
             <div data-animate="fadeInDown" className="logo">
               {/* <img src="img/logo-big.png" alt="logo" width={130} /> */}
               Hello, hola, नमस्ते !

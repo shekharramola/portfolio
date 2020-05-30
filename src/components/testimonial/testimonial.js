@@ -24,7 +24,7 @@ export default class Testimonial extends Component {
                 <div className="testimonial full-height">
                   <div className="text">
                     <p>
-                      I’ve used Shekhar’s services on many occasions for logo
+                      {/* I’ve used Shekhar’s services on many occasions for logo
                       editing. I require exemplary results and I have always
                       gotten just that. Not only the the takes to time to ask
                       questions, follow-up, and make sure everything is just how
@@ -35,7 +35,8 @@ export default class Testimonial extends Component {
                       services. I will certainly be using him should the need
                       arise again, too. His communication and professionalism
                       are impressive. He gets the job done right at highly
-                      competitive rates.
+                      competitive rates. */}
+                      I’ve hired Shekhar for several logo/graphics formats editing. He’s easy to communicate with, offers fast turnaround time, and he really cares that projects are done to your liking. I wouldn’t hesitate to recommend him for his great value, attention to detail, and overall professionalism and expertise. 
                     </p>
                   </div>
                   <div className="bottom">
@@ -54,11 +55,9 @@ export default class Testimonial extends Component {
                 <div className="testimonial full-height">
                   <div className="text">
                     <p>
-                      I was looking for the fornt end developer who can do that
-                      work but everyone starts but after some time they say that
-                      they don't have time for this project. Then I meet
-                      Shekhar. He completed the time within timeframe. I am
-                      happy with his efforts.
+                    I had the opportunity to work with Shekhar for our UI Development. He is good command over various UI technology options. He guided us well, helped choose right set of technology stack for the product.
+
+Top 3 qualities, I would rate him highly for - Easy to work with, Hard working, eager to learn/do new technologies. He would be an asset to any organization. 
                     </p>
                   </div>
                   <div className="bottom">
@@ -73,7 +72,7 @@ export default class Testimonial extends Component {
                   </div>
                 </div>
               </li>
-              <li className="item">
+              {/* <li className="item">
                 <div className="testimonial full-height">
                   <div className="text">
                     <p>
@@ -146,7 +145,7 @@ export default class Testimonial extends Component {
                     </div>
                   </div>
                 </div>
-              </li>
+              </li> */}
             </ul>
           </div>
         </section>

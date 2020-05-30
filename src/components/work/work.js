@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 export default class Work extends Component {
   render() {
     return (
@@ -76,7 +76,7 @@ export default class Work extends Component {
                             <h3 className="h4 reference-title">SElogicIq</h3>
                             <p>
                               Real-Time Analytics to Maximise the Solar Plant
-                              Yeild
+                              Yield
                             </p>
                           </div>
                         </div>
@@ -303,7 +303,7 @@ export default class Work extends Component {
                     </div>
                   </div>
                   <div
-                    data-category="other"
+                    data-category="webdesign"
                     className="reference-item col-lg-3 col-md-6"
                   >
                     <div className="reference">
@@ -315,8 +315,8 @@ export default class Work extends Component {
                         />
                         <div className="overlay">
                           <div className="inner">
-                            <h3 className="h4 reference-title">FOD</h3>
-                            <p>Finnable Operation Dashboard</p>
+                            <h3 className="h4 reference-title">FO</h3>
+                            <p>Finnable Operation</p>
                           </div>
                         </div>
                       </a>
@@ -325,14 +325,14 @@ export default class Work extends Component {
                         className="sr-only reference-description"
                       >
                         <p>
-                          Finnable operation dashboard is a web application to
-                          check and verify the different set of details of the
-                          user to avail the loan.
+                          Finnable operation is a complete web application to
+                          complete the steps from initiating to disbursing and
+                          finally closing the loan.
                         </p>
 
                         <p className="buttons text-center">
                           <a
-                            href="http://finnable-operation-dashboard-dev.s3-website-us-east-1.amazonaws.com/?email=shekharramola@hummingwave.com&auth-token=u$rbf6a5764aadf7868bb86c4ed822AAAAu$rbf6a5764aadf7c4ec8e23d822"
+                            href="http://finnable-operations-login-dev.s3-website-us-east-1.amazonaws.com/"
                             className="btn btn-outline-primary"
                             target="_blank"
                           >
@@ -345,6 +345,93 @@ export default class Work extends Component {
                       </div>
                     </div>
                   </div>
+
+                  <div
+                    data-category="webdesign"
+                    className="reference-item col-lg-3 col-md-6"
+                  >
+                    <div className="reference">
+                      <a href="#">
+                        <img
+                          src="img/portfolio-11.png"
+                          alt="port"
+                          className="img-fluid"
+                        />
+                        <div className="overlay">
+                          <div className="inner">
+                            <h3 className="h4 reference-title">Sk</h3>
+                            <p>SmartKarrot</p>
+                          </div>
+                        </div>
+                      </a>
+                      <div
+                        data-images="img/smart-slide.png"
+                        className="sr-only reference-description"
+                      >
+                        <p>
+                          It is a incentive system to automate the incentive
+                          process of the employees.
+                        </p>
+
+                        <p className="buttons text-center">
+                          <a
+                            href="https://platform.smartkarrot.com/"
+                            className="btn btn-outline-primary"
+                            target="_blank"
+                          >
+                            <i className="fa fa-globe" /> Visit website
+                          </a>
+                          {/* <a href="" className="btn btn-outline-primary">
+                            <i className="fa fa-download" /> Download case study
+                          </a> */}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div
+                    data-category="webdesign"
+                    className="reference-item col-lg-3 col-md-6"
+                  >
+                    <div className="reference">
+                      <a href="#">
+                        <img
+                          src="img/backofficeforex.png"
+                          alt="port"
+                          className="img-fluid"
+                        />
+                        <div className="overlay">
+                          <div className="inner">
+                            <h3 className="h4 reference-title">MWA</h3>
+                            <p>MWA Forex Backoffice</p>
+                          </div>
+                        </div>
+                      </a>
+                      <div
+                        data-images="img/backofficeforexslide.png"
+                        className="sr-only reference-description"
+                      >
+                        <p>
+                          It is an operational application for the payment
+                          system.
+                        </p>
+
+                        <p className="buttons text-center">
+                          <a
+                            href="https://platform.smartkarrot.com/"
+                            className="btn btn-outline-primary"
+                            target="_blank"
+                          >
+                            <i className="fa fa-globe" /> Visit website
+                          </a>
+                          {/* <a href="" className="btn btn-outline-primary">
+                            <i className="fa fa-download" /> Download case study
+                          </a> */}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
                   <div
                     data-category="seo"
                     className="reference-item col-lg-3 col-md-6"
@@ -387,6 +474,289 @@ export default class Work extends Component {
                       </div>
                     </div>
                   </div>
+
+                  <div
+                    data-category="seo"
+                    className="reference-item col-lg-3 col-md-6"
+                  >
+                    <div className="reference">
+                      <a href="#">
+                        <img
+                          src="img/redditlogin.png"
+                          alt="port"
+                          className="img-fluid"
+                        />
+                        <div className="overlay">
+                          <div className="inner">
+                            <h3 className="h4 reference-title">
+                              Reddit Web Client
+                            </h3>
+                            <p>
+                              It is a replica of reddit web app with enhanced
+                              design
+                            </p>
+                          </div>
+                        </div>
+                      </a>
+                      <div
+                        data-images="img/redditdashbord.png"
+                        className="sr-only reference-description"
+                      >
+                        <p>Social Netowrking platform. </p>
+
+                        <p className="buttons text-center">
+                          <a
+                            href="https://shekharramola.github.io/reddit-web-client/"
+                            className="btn btn-outline-primary"
+                            target="_blank"
+                          >
+                            <i className="fa fa-globe" /> Visit website
+                          </a>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div
+                    data-category="seo"
+                    className="reference-item col-lg-3 col-md-6"
+                  >
+                    <div className="reference">
+                      <a href="#">
+                        <img
+                          src="img/burger.png"
+                          alt="port"
+                          className="img-fluid"
+                        />
+                        <div className="overlay">
+                          <div className="inner">
+                            <h3 className="h4 reference-title">
+                              Burger Builder
+                            </h3>
+                            <p>E-commerce web app</p>
+                          </div>
+                        </div>
+                      </a>
+                      <div
+                        data-images="img/burgerbuilderorder.png"
+                        className="sr-only reference-description"
+                      >
+                        <p>It is a fun platform to order burger. </p>
+
+                        <p className="buttons text-center">
+                          <a
+                            href="https://shekharramola.github.io/burger-builder/"
+                            className="btn btn-outline-primary"
+                            target="_blank"
+                          >
+                            <i className="fa fa-globe" /> Visit website
+                          </a>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div
+                    data-category="seo"
+                    className="reference-item col-lg-3 col-md-6"
+                  >
+                    <div className="reference">
+                      <a href="#">
+                        <img
+                          src="img/portfolio-10.png"
+                          alt="port"
+                          className="img-fluid"
+                        />
+                        <div className="overlay">
+                          <div className="inner">
+                            <h3 className="h4 reference-title">MWA Forex</h3>
+                            <p>
+                              Payment system for customer to send and receive
+                              bitcoins.
+                            </p>
+                          </div>
+                        </div>
+                      </a>
+                      <div
+                        data-images="img/portfolio-10.png"
+                        className="sr-only reference-description"
+                      >
+                        <p>It is a payment system to tranfer the money. </p>
+
+                        <p className="buttons text-center">
+                          <a
+                            href="http://www.customerforex.com.s3-website-ap-southeast-1.amazonaws.com"
+                            className="btn btn-outline-primary"
+                            target="_blank"
+                          >
+                            <i className="fa fa-globe" /> Visit website
+                          </a>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div
+                    data-category="seo"
+                    className="reference-item col-lg-3 col-md-6"
+                  >
+                    <div className="reference">
+                      <a href="#">
+                        <img
+                          src="img/winds.png"
+                          alt="port"
+                          className="img-fluid"
+                        />
+                        <div className="overlay">
+                          <div className="inner">
+                            <h3 className="h4 reference-title">
+                              WINDS
+                            </h3>
+                            <p>E-commerce platform for shopping.</p>
+                          </div>
+                        </div>
+                      </a>
+                      <div
+                        data-images="img/winds_cover.png"
+                        className="sr-only reference-description"
+                      >
+                        <p>
+                          It is an E-commerce platform for shopping, and paying
+                          bill with a chance to win exciting rewards.{" "}
+                        </p>
+
+                        <p className="buttons text-center">
+                          <a
+                            href="http://app.windseworld.com"
+                            className="btn btn-outline-primary"
+                            target="_blank"
+                          >
+                            <i className="fa fa-globe" /> Visit website
+                          </a>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-category="seo"
+                    className="reference-item col-lg-3 col-md-6"
+                  >
+                    <div className="reference">
+                      <a href="#">
+                        <img
+                          src="img/after.png"
+                          alt="port"
+                          className="img-fluid"
+                        />
+                        <div className="overlay">
+                          <div className="inner">
+                            <h3 className="h4 reference-title">
+                              Wheel of fortune
+                            </h3>
+                            <p>It's a game based on luck</p>
+                          </div>
+                        </div>
+                      </a>
+                      <div
+                        data-images="img/before.png"
+                        className="sr-only reference-description"
+                      >
+                        <p>
+                          It is a fully reusable, configurable component library built on react.{" "}
+                        </p>
+
+                        <p className="buttons text-center">
+                          <a
+                            href="https://github.com/shekharramola/react-wheel-of-prizes"
+                            className="btn btn-outline-primary"
+                            target="_blank"
+                          >
+                            <i className="fa fa-globe" /> Visit website
+                          </a>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-category="seo"
+                    className="reference-item col-lg-3 col-md-6"
+                  >
+                    <div className="reference">
+                      <a href="#">
+                        <img
+                          src="img/range.png"
+                          alt="port"
+                          className="img-fluid"
+                        />
+                        <div className="overlay">
+                          <div className="inner">
+                            <h3 className="h4 reference-title">
+                              Input range slider
+                            </h3>
+                            <p>It's a slider based on input range</p>
+                          </div>
+                        </div>
+                      </a>
+                      <div
+                        data-images="img/range_cover.png"
+                        className="sr-only reference-description"
+                      >
+                        <p>
+                          It is a fully reusable, configurable component library module programmed to take user minimum, maximum and step etc properties.{" "}
+                        </p>
+
+                        <p className="buttons text-center">
+                          <a
+                            href="https://github.com/shekharramola/react-input-range-slider"
+                            className="btn btn-outline-primary"
+                            target="_blank"
+                          >
+                            <i className="fa fa-globe" /> Visit website
+                          </a>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-category="seo"
+                    className="reference-item col-lg-3 col-md-6"
+                  >
+                    <div className="reference">
+                      <a href="#">
+                        <img
+                          src="img/dynamic_form.png"
+                          alt="port"
+                          className="img-fluid"
+                        />
+                        <div className="overlay">
+                          <div className="inner">
+                            <h3 className="h4 reference-title">
+                              Interactive dynamic form generator
+                            </h3>
+                            <p>It's a reusable component library module</p>
+                          </div>
+                        </div>
+                      </a>
+                      <div
+                        data-images="img/dynamic_form_cover.png"
+                        className="sr-only reference-description"
+                      >
+                        <p>
+                          It is a fully reusable, configurable component library module programmed to designed form with full validation.{" "}
+                        </p>
+
+                        <p className="buttons text-center">
+                          <a
+                            href="https://github.com/shekharramola/react-interactive-dynamic-form-generator"
+                            className="btn btn-outline-primary"
+                            target="_blank"
+                          >
+                            <i className="fa fa-globe" /> Visit website
+                          </a>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
                   <div
                     data-category="marketing"
                     className="reference-item col-lg-3 col-md-6"
@@ -417,6 +787,52 @@ export default class Work extends Component {
                         <p className="buttons text-center">
                           <a
                             href="https://limitless-refuge-80381.herokuapp.com/register"
+                            target="_blank"
+                            className="btn btn-outline-primary"
+                          >
+                            <i className="fa fa-globe" /> Visit website
+                          </a>
+                          {/* <a
+                            href="javascript:void(0);"
+                            className="btn btn-outline-primary"
+                          >
+                            <i className="fa fa-download" /> Download case study
+                          </a> */}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div
+                    data-category="marketing"
+                    className="reference-item col-lg-3 col-md-6"
+                  >
+                    <div className="reference">
+                      <a href="#">
+                        <img
+                          src="img/portfolio-9.png"
+                          alt="port"
+                          className="img-fluid"
+                        />
+                        <div className="overlay">
+                          <div className="inner">
+                            <h3 className="h4 reference-title">Steelmint</h3>
+                            <p>A node.js web application</p>
+                          </div>
+                        </div>
+                      </a>
+                      <div
+                        data-images="img/main-slider9.jpg"
+                        className="sr-only reference-description"
+                      >
+                        <p>
+                          It tells the current price of steel product around the
+                          world and also predict the value.
+                        </p>
+
+                        <p className="buttons text-center">
+                          <a
+                            href="http://ec2-13-234-87-162.ap-south-1.compute.amazonaws.com:3000/"
                             target="_blank"
                             className="btn btn-outline-primary"
                           >

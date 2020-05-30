@@ -17,7 +17,7 @@ class App extends Component {
         <Intro />
         <About />
         {/* <Services /> */}
-        {/* <Testimonial /> */}
+        { <Testimonial /> }
         <Work />
         {/* <Clients /> */}
         {/* <Contact /> */}
