@@ -32,11 +32,7 @@ export default class About extends Component {
                 </p>
 
                 <p>
-                  I am also focussing on <strong>node.js </strong> these days. I
-                  have written a few application in node.js
-                </p>
-                <p>
-                  I have developed web applications for the past 2 years, and
+                  I have developed web applications for the past 3 years, and
                   have experience developing web application from scratch. I
                   have a strong background in javascript as well as Bachelor of
                   Technology in Computer Science and Engineering from GGSIPU,
@@ -51,7 +47,7 @@ export default class About extends Component {
                       role="progressbar"
                       style={{ width: '90%' }}
                       aria-valuenow={0}
-                      aria-valuemin={90}
+                      aria-valuemin={88}
                       aria-valuemax={100}
                       className="progress-bar progress-bar-skill1"
                     />
@@ -62,8 +58,8 @@ export default class About extends Component {
                   <div className="progress">
                     <div
                       role="progressbar"
-                      style={{ width: '91%' }}
-                      aria-valuenow={70}
+                      style={{ width: '90%' }}
+                      aria-valuenow={89}
                       aria-valuemin={0}
                       aria-valuemax={100}
                       className="progress-bar progress-bar-skill2"
@@ -75,8 +71,8 @@ export default class About extends Component {
                   <div className="progress">
                     <div
                       role="progressbar"
-                      style={{ width: '80%' }}
-                      aria-valuenow={80}
+                      style={{ width: '90%' }}
+                      aria-valuenow={85}
                       aria-valuemin={0}
                       aria-valuemax={100}
                       className="progress-bar progress-bar-skill3"
@@ -89,7 +85,7 @@ export default class About extends Component {
                     <div
                       role="progressbar"
                       style={{ width: '90%' }}
-                      aria-valuenow={90}
+                      aria-valuenow={87}
                       aria-valuemin={0}
                       aria-valuemax={100}
                       className="progress-bar progress-bar-skill4"
@@ -97,11 +93,24 @@ export default class About extends Component {
                   </div>
                 </div>
                 <div className="skill-item">
-                  <div className="progress-title">Photo Editing</div>
+                  <div className="progress-title">Knockout.js</div>
                   <div className="progress">
                     <div
                       role="progressbar"
                       style={{ width: '70%' }}
+                      aria-valuenow={70}
+                      aria-valuemin={0}
+                      aria-valuemax={100}
+                      className="progress-bar progress-bar-skill5"
+                    />
+                  </div>
+                </div>
+                <div className="skill-item">
+                  <div className="progress-title">Nunjucks</div>
+                  <div className="progress">
+                    <div
+                      role="progressbar"
+                      style={{ width: '75%' }}
                       aria-valuenow={70}
                       aria-valuemin={0}
                       aria-valuemax={100}

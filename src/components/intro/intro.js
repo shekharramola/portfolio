@@ -6,12 +6,12 @@ export default class Intro extends Component {
         <section
           id="intro"
           style={{
-            background: 'url(img/home.jpg) center center no-repeat',
+            background: 'url(img/screen.jpg) center center no-repeat',
             backgroundSize: 'cover'
           }}
           className="intro-section pb-2"
         >
-          <div className="container text-center">
+          {/* <div className="container text-center">
             <div data-animate="fadeInDown" className="logo">
               <img src="img/logo-big.png" alt="logo" width={130} />
             </div>
@@ -22,7 +22,7 @@ export default class Intro extends Component {
             <p data-animate="slideInUp" className="h3 text-shadow text-400">
               I am Shekhar Ramola. I design and build User Interfaces.
             </p>
-          </div>
+          </div> */}
         </section>
       </React.Fragment>
     );

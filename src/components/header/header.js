@@ -56,7 +56,7 @@ export default class Header extends Component {
                     {/* <a href="/vendor/Shekhar.pdf" download className="nav-link"> */}
                     <a href="vendor/Shekhar.pdf" download className="nav-link">
                       {/* E:\PERSONAL\portfolio\public\vendor\Shekhar.pdf */}
-                      Resume
+                      Download Resume
                     </a>
                   </li>
                   {/* <li className="nav-item">
