@@ -832,7 +832,7 @@ export default class Work extends Component {
 
                         <p className="buttons text-center">
                           <a
-                            href="http://ec2-13-234-87-162.ap-south-1.compute.amazonaws.com:3000/"
+                            href="https://www.steelmint.com/"
                             target="_blank"
                             className="btn btn-outline-primary"
                           >

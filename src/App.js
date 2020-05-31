@@ -21,6 +21,11 @@ class App extends Component {
         <Work />
         {/* <Clients /> */}
         {/* <Contact /> */}
+        <footer>
+          <p>Copyright©2020 SHEKHAR RAMOLA | Cover-Image Photo by <a href="https://unsplash.com/@brandomakesbranding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brando Makes Branding</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+</p>
+</footer>
       </div>
     );
   }
