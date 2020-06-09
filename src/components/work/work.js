@@ -474,6 +474,47 @@ export default class Work extends Component {
                       </div>
                     </div>
                   </div>
+                  
+                  <div
+                    data-category="seo"
+                    className="reference-item col-lg-3 col-md-6"
+                  >
+                    <div className="reference">
+                      <a href="#">
+                        <img
+                          src="img/infinite-loader-cover.png"
+                          alt="port"
+                          className="img-fluid"
+                        />
+                        <div className="overlay">
+                          <div className="inner">
+                            <h3 className="h4 reference-title">
+                              React Infinite Data Loader
+                            </h3>
+                            <p>
+                            React infinite loader using button or scroll
+                            </p>
+                          </div>
+                        </div>
+                      </a>
+                      <div
+                        data-images="img/infinite-loader.png"
+                        className="sr-only reference-description"
+                      >
+                        <p>                              It is a npm package to load infinite amount of data which support both button or scroll </p>
+
+                        <p className="buttons text-center">
+                          <a
+                            href="https://codesandbox.io/s/infinitdataloader-demo-637gr/"
+                            className="btn btn-outline-primary"
+                            target="_blank"
+                          >
+                            <i className="fa fa-globe" /> Visit website
+                          </a>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
 
                   <div
                     data-category="seo"
