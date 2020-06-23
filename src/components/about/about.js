@@ -27,8 +27,9 @@ export default class About extends Component {
                 </p>
                 <p>
                   I have worked with server side rendering technologies like
-                  next.js, Angular universal and nodeJS, nunjucks etc.
+                  next.js, Angular universal, and nodeJS, nunjucks etc.
                 </p>
+                <p>I have also worked with PWA apps.</p>
                 <p>
                   I always use available tools to automate the process and
                   increase my productivity. My favourites one include
